@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Calc"
+             x:Class="Calc.MainPage">
+
+    <StackLayout BackgroundColor="White">
+        <StackLayout VerticalOptions="EndAndExpand">
+            <Label x:Name="Label1" HorizontalTextAlignment="End" TextColor="Black" Text="0" FontSize="Large" BackgroundColor="LightSalmon"/>
+        </StackLayout>
+        <FlexLayout VerticalOptions="EndAndExpand" JustifyContent="Center">
+            <Button Text="AC" x:Name="Button1" Clicked="Button1_Clicked"></Button>
+            <Button Text="/" x:Name="Button2" Clicked="Button2_Clicked"></Button>
+            <Button Text="%" x:Name="Button3" Clicked="Button3_Clicked"></Button>
+            <Button Text="+" x:Name="Button4" Clicked="Button4_Clicked"></Button>
+        </FlexLayout>
+        <FlexLayout VerticalOptions="End" JustifyContent="Center">
+            <Button Text="7" x:Name="Button5" Clicked="Button5_Clicked"></Button>
+            <Button Text="8" x:Name="Button6" Clicked="Button6_Clicked"></Button>
+            <Button Text="9" x:Name="Button7" Clicked="Button7_Clicked"></Button>
+            <Button Text="*" x:Name="Button8" Clicked="Button8_Clicked"></Button>
+        </FlexLayout>
+        <FlexLayout VerticalOptions="End" JustifyContent="Center">
+            <Button Text="4" x:Name="Button9" Clicked="Button9_Clicked"></Button>
+            <Button Text="5" x:Name="Button10" Clicked="Button10_Clicked"></Button>
+            <Button Text="6" x:Name="Button11" Clicked="Button11_Clicked"></Button>
+            <Button Text="-" x:Name="Button12" Clicked="Button12_Clicked"></Button>
+        </FlexLayout>
+        <FlexLayout VerticalOptions="End" JustifyContent="Center">
+            <Button Text="1" x:Name="Button13" Clicked="Button13_Clicked"></Button>
+            <Button Text="2" x:Name="Button14" Clicked="Button14_Clicked"></Button>
+            <Button Text="3" x:Name="Button15" Clicked="Button15_Clicked"></Button>
+            <Button Text="=" x:Name="Button16" Clicked="Button16_Clicked"></Button>
+        </FlexLayout>
+        <FlexLayout VerticalOptions="End" JustifyContent="Center">
+            <Button Text="0" x:Name="Button17" Clicked="Button17_Clicked"></Button>
+            <Button Text="." x:Name="Button18" Clicked="Button18_Clicked"></Button>
+        </FlexLayout>
+    </StackLayout>
+
+</ContentPage>
