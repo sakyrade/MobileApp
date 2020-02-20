@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:HTTPappSD"
+             x:Class="HTTPappSD.MainPage">
+
+    <StackLayout>
+        <Entry x:Name="entry1" Placeholder="email" />
+        <Entry x:Name="entry2" Placeholder="title" />
+        <Entry x:Name="entry3" Placeholder="send" />
+        <Button Clicked="Button_Clicked" Text="Send" />
+        <Switch IsToggled="false" x:Name="switch1"/>
+        <Slider Minimum="0" Maximum="64" x:Name="slider1" PropertyChanged="Slider1_PropertyChanged"/>
+    </StackLayout>
+
+</ContentPage>

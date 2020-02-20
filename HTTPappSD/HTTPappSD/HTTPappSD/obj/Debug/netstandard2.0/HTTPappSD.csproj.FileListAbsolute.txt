@@ -1,0 +1,12 @@
+D:\Work\repos\HTTPappSD\HTTPappSD\HTTPappSD\bin\Debug\netstandard2.0\HTTPappSD.deps.json
+D:\Work\repos\HTTPappSD\HTTPappSD\HTTPappSD\bin\Debug\netstandard2.0\HTTPappSD.dll
+D:\Work\repos\HTTPappSD\HTTPappSD\HTTPappSD\bin\Debug\netstandard2.0\HTTPappSD.pdb
+D:\Work\repos\HTTPappSD\HTTPappSD\HTTPappSD\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Work\repos\HTTPappSD\HTTPappSD\HTTPappSD\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Work\repos\HTTPappSD\HTTPappSD\HTTPappSD\obj\Debug\netstandard2.0\HTTPappSD.csproj.CoreCompileInputs.cache
+D:\Work\repos\HTTPappSD\HTTPappSD\HTTPappSD\obj\Debug\netstandard2.0\HTTPappSD.AssemblyInfoInputs.cache
+D:\Work\repos\HTTPappSD\HTTPappSD\HTTPappSD\obj\Debug\netstandard2.0\HTTPappSD.AssemblyInfo.cs
+D:\Work\repos\HTTPappSD\HTTPappSD\HTTPappSD\obj\Debug\netstandard2.0\HTTPappSD.dll
+D:\Work\repos\HTTPappSD\HTTPappSD\HTTPappSD\obj\Debug\netstandard2.0\HTTPappSD.pdb
+D:\Work\repos\HTTPappSD\HTTPappSD\HTTPappSD\obj\Debug\netstandard2.0\HTTPappSD.csprojAssemblyReference.cache
+D:\Work\repos\HTTPappSD\HTTPappSD\HTTPappSD\obj\Debug\netstandard2.0\XamlC.stamp
