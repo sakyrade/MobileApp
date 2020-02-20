@@ -1,0 +1,13 @@
+C:\Users\DAVID\source\repos\chat\chat\chat\bin\Debug\netstandard2.0\chat.deps.json
+C:\Users\DAVID\source\repos\chat\chat\chat\bin\Debug\netstandard2.0\chat.dll
+C:\Users\DAVID\source\repos\chat\chat\chat\bin\Debug\netstandard2.0\ref\chat.dll
+C:\Users\DAVID\source\repos\chat\chat\chat\bin\Debug\netstandard2.0\chat.pdb
+C:\Users\DAVID\source\repos\chat\chat\chat\obj\Debug\netstandard2.0\chat.csprojAssemblyReference.cache
+C:\Users\DAVID\source\repos\chat\chat\chat\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\DAVID\source\repos\chat\chat\chat\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\DAVID\source\repos\chat\chat\chat\obj\Debug\netstandard2.0\chat.AssemblyInfoInputs.cache
+C:\Users\DAVID\source\repos\chat\chat\chat\obj\Debug\netstandard2.0\chat.AssemblyInfo.cs
+C:\Users\DAVID\source\repos\chat\chat\chat\obj\Debug\netstandard2.0\chat.dll
+C:\Users\DAVID\source\repos\chat\chat\chat\obj\Debug\netstandard2.0\ref\chat.dll
+C:\Users\DAVID\source\repos\chat\chat\chat\obj\Debug\netstandard2.0\chat.pdb
+C:\Users\DAVID\source\repos\chat\chat\chat\obj\Debug\netstandard2.0\XamlC.stamp
