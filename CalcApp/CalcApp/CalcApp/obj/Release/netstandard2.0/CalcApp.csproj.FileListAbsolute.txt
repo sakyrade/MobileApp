@@ -1,0 +1,11 @@
+D:\Work\repos\CalcApp\CalcApp\CalcApp\bin\Release\netstandard2.0\CalcApp.deps.json
+D:\Work\repos\CalcApp\CalcApp\CalcApp\bin\Release\netstandard2.0\CalcApp.dll
+D:\Work\repos\CalcApp\CalcApp\CalcApp\bin\Release\netstandard2.0\CalcApp.pdb
+D:\Work\repos\CalcApp\CalcApp\CalcApp\obj\Release\netstandard2.0\App.xaml.g.cs
+D:\Work\repos\CalcApp\CalcApp\CalcApp\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+D:\Work\repos\CalcApp\CalcApp\CalcApp\obj\Release\netstandard2.0\CalcApp.csproj.CoreCompileInputs.cache
+D:\Work\repos\CalcApp\CalcApp\CalcApp\obj\Release\netstandard2.0\CalcApp.AssemblyInfoInputs.cache
+D:\Work\repos\CalcApp\CalcApp\CalcApp\obj\Release\netstandard2.0\CalcApp.AssemblyInfo.cs
+D:\Work\repos\CalcApp\CalcApp\CalcApp\obj\Release\netstandard2.0\XamlC.stamp
+D:\Work\repos\CalcApp\CalcApp\CalcApp\obj\Release\netstandard2.0\CalcApp.dll
+D:\Work\repos\CalcApp\CalcApp\CalcApp\obj\Release\netstandard2.0\CalcApp.pdb
