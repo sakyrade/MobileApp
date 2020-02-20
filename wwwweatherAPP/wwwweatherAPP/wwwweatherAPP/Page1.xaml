@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="wwwweatherAPP.Page1">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="DarkSlateGray">
+            <Label Text="{Binding Source={x:Reference Entry1}, Path=Text}" />
+            <Label FontSize="Large" TextColor="GreenYellow"  Text="Погода" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" FontAttributes="Italic" FontFamily="Align" />
+            <Entry VerticalOptions="EndAndExpand" TextColor="LightGray" Placeholder="Введите город" PlaceholderColor="LightGray" x:Name="Entry1" />
+            <Button VerticalOptions="End" Text="Добавить город в список" Clicked="Button_Clicked" BackgroundColor="SeaGreen" />
+            <Picker VerticalOptions="End" x:Name="Picker1" TextColor="LightGray" Title="Список город" SelectedIndexChanged="Picker1_SelectedIndexChanged" />
+            <Button VerticalOptions="End" Text="Очистить" Clicked="Button_Clicked_1" BackgroundColor="SeaGreen" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

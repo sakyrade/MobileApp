@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:wwwweatherAPP"
+             x:Class="wwwweatherAPP.MainPage">
+
+    <StackLayout BackgroundColor="DarkSlateGray">
+        <Label x:Name="label1"  Text="" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" FontFamily="Align" FontSize="Medium"  TextColor="GreenYellow"  />
+        <Button Text="Обновить" Clicked="Button_Clicked" BackgroundColor="SeaGreen" />
+        <Button Text="Вернуться обратно" Clicked="Button_Clicked_1" BackgroundColor="SeaGreen" />
+    </StackLayout>
+
+</ContentPage>

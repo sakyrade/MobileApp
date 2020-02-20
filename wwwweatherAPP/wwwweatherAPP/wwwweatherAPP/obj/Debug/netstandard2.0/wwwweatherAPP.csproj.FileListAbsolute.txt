@@ -1,0 +1,13 @@
+D:\Work\repos\wwwweatherAPP\wwwweatherAPP\wwwweatherAPP\bin\Debug\netstandard2.0\wwwweatherAPP.deps.json
+D:\Work\repos\wwwweatherAPP\wwwweatherAPP\wwwweatherAPP\bin\Debug\netstandard2.0\wwwweatherAPP.dll
+D:\Work\repos\wwwweatherAPP\wwwweatherAPP\wwwweatherAPP\bin\Debug\netstandard2.0\wwwweatherAPP.pdb
+D:\Work\repos\wwwweatherAPP\wwwweatherAPP\wwwweatherAPP\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Work\repos\wwwweatherAPP\wwwweatherAPP\wwwweatherAPP\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Work\repos\wwwweatherAPP\wwwweatherAPP\wwwweatherAPP\obj\Debug\netstandard2.0\wwwweatherAPP.csproj.CoreCompileInputs.cache
+D:\Work\repos\wwwweatherAPP\wwwweatherAPP\wwwweatherAPP\obj\Debug\netstandard2.0\wwwweatherAPP.AssemblyInfoInputs.cache
+D:\Work\repos\wwwweatherAPP\wwwweatherAPP\wwwweatherAPP\obj\Debug\netstandard2.0\wwwweatherAPP.AssemblyInfo.cs
+D:\Work\repos\wwwweatherAPP\wwwweatherAPP\wwwweatherAPP\obj\Debug\netstandard2.0\wwwweatherAPP.dll
+D:\Work\repos\wwwweatherAPP\wwwweatherAPP\wwwweatherAPP\obj\Debug\netstandard2.0\wwwweatherAPP.pdb
+D:\Work\repos\wwwweatherAPP\wwwweatherAPP\wwwweatherAPP\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Work\repos\wwwweatherAPP\wwwweatherAPP\wwwweatherAPP\obj\Debug\netstandard2.0\wwwweatherAPP.csprojAssemblyReference.cache
+D:\Work\repos\wwwweatherAPP\wwwweatherAPP\wwwweatherAPP\obj\Debug\netstandard2.0\Page1.xaml.g.cs
