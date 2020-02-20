@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:MapApp2"
+             x:Class="MapApp2.MainPage">
+
+    <StackLayout>
+        <Picker Title="Места" x:Name="picker" SelectedIndexChanged="Picker_SelectedIndexChanged" />
+        <Entry Placeholder="Широта" x:Name="entry1" />
+        <Entry Placeholder="Долгота" x:Name="entry2" />
+        <Button Clicked="Button_Clicked" Text="Занести координаты в список" />
+        <Button Text="Очистить лист с координатами" Clicked="Button_Clicked_1" />
+    </StackLayout>
+
+</ContentPage>

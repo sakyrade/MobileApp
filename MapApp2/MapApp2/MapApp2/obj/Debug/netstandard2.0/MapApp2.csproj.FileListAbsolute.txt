@@ -1,0 +1,13 @@
+D:\Work\repos\MapApp2\MapApp2\MapApp2\bin\Debug\netstandard2.0\MapApp2.deps.json
+D:\Work\repos\MapApp2\MapApp2\MapApp2\bin\Debug\netstandard2.0\MapApp2.dll
+D:\Work\repos\MapApp2\MapApp2\MapApp2\bin\Debug\netstandard2.0\MapApp2.pdb
+D:\Work\repos\MapApp2\MapApp2\MapApp2\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Work\repos\MapApp2\MapApp2\MapApp2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Work\repos\MapApp2\MapApp2\MapApp2\obj\Debug\netstandard2.0\MapApp2.csproj.CoreCompileInputs.cache
+D:\Work\repos\MapApp2\MapApp2\MapApp2\obj\Debug\netstandard2.0\MapApp2.AssemblyInfoInputs.cache
+D:\Work\repos\MapApp2\MapApp2\MapApp2\obj\Debug\netstandard2.0\MapApp2.AssemblyInfo.cs
+D:\Work\repos\MapApp2\MapApp2\MapApp2\obj\Debug\netstandard2.0\MapApp2.dll
+D:\Work\repos\MapApp2\MapApp2\MapApp2\obj\Debug\netstandard2.0\MapApp2.pdb
+D:\Work\repos\MapApp2\MapApp2\MapApp2\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Work\repos\MapApp2\MapApp2\MapApp2\obj\Debug\netstandard2.0\mapShow.xaml.g.cs
+D:\Work\repos\MapApp2\MapApp2\MapApp2\obj\Debug\netstandard2.0\MapApp2.csprojAssemblyReference.cache
