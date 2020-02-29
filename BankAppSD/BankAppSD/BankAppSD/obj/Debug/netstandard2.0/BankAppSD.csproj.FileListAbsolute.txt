@@ -1,0 +1,14 @@
+D:\Work\repos\BankAppSD\BankAppSD\BankAppSD\bin\Debug\netstandard2.0\BankAppSD.deps.json
+D:\Work\repos\BankAppSD\BankAppSD\BankAppSD\bin\Debug\netstandard2.0\BankAppSD.dll
+D:\Work\repos\BankAppSD\BankAppSD\BankAppSD\bin\Debug\netstandard2.0\BankAppSD.pdb
+D:\Work\repos\BankAppSD\BankAppSD\BankAppSD\obj\Debug\netstandard2.0\BankAppSD.csprojAssemblyReference.cache
+D:\Work\repos\BankAppSD\BankAppSD\BankAppSD\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Work\repos\BankAppSD\BankAppSD\BankAppSD\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Work\repos\BankAppSD\BankAppSD\BankAppSD\obj\Debug\netstandard2.0\BankAppSD.csproj.CoreCompileInputs.cache
+D:\Work\repos\BankAppSD\BankAppSD\BankAppSD\obj\Debug\netstandard2.0\BankAppSD.AssemblyInfoInputs.cache
+D:\Work\repos\BankAppSD\BankAppSD\BankAppSD\obj\Debug\netstandard2.0\BankAppSD.AssemblyInfo.cs
+D:\Work\repos\BankAppSD\BankAppSD\BankAppSD\obj\Debug\netstandard2.0\BankAppSD.dll
+D:\Work\repos\BankAppSD\BankAppSD\BankAppSD\obj\Debug\netstandard2.0\BankAppSD.pdb
+D:\Work\repos\BankAppSD\BankAppSD\BankAppSD\obj\Debug\netstandard2.0\Bank2.xaml.g.cs
+D:\Work\repos\BankAppSD\BankAppSD\BankAppSD\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Work\repos\BankAppSD\BankAppSD\BankAppSD\obj\Debug\netstandard2.0\Bank3.xaml.g.cs

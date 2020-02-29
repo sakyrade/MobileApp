@@ -1,0 +1,12 @@
+D:\Work\repos\Karta\Karta\Karta\bin\Debug\netstandard2.0\Karta.deps.json
+D:\Work\repos\Karta\Karta\Karta\bin\Debug\netstandard2.0\Karta.dll
+D:\Work\repos\Karta\Karta\Karta\bin\Debug\netstandard2.0\Karta.pdb
+D:\Work\repos\Karta\Karta\Karta\obj\Debug\netstandard2.0\Karta.csprojAssemblyReference.cache
+D:\Work\repos\Karta\Karta\Karta\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Work\repos\Karta\Karta\Karta\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Work\repos\Karta\Karta\Karta\obj\Debug\netstandard2.0\Karta.csproj.CoreCompileInputs.cache
+D:\Work\repos\Karta\Karta\Karta\obj\Debug\netstandard2.0\Karta.AssemblyInfoInputs.cache
+D:\Work\repos\Karta\Karta\Karta\obj\Debug\netstandard2.0\Karta.AssemblyInfo.cs
+D:\Work\repos\Karta\Karta\Karta\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Work\repos\Karta\Karta\Karta\obj\Debug\netstandard2.0\Karta.dll
+D:\Work\repos\Karta\Karta\Karta\obj\Debug\netstandard2.0\Karta.pdb
